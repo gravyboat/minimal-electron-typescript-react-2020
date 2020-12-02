@@ -14,4 +14,4 @@ The goal of this repo is to provide a stripped down starting point that you can 
 2. Run `npm install` (this repo is using Node 15.3.0)
 3. Run `npm start`
 
-At this point you should have an Electron window with your app component inside. You can now add Babel, Jest or whatever else you desire.
+At this point you should have an Electron window with your app component inside. You can now add Babel, Sass, Jest or whatever else you desire.
